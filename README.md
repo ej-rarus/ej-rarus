@@ -1,17 +1,13 @@
 <h1>Eunjae Tony Lee</h1>
 
 <p>
-  Philosopher & Programmer
-  <br>@Seoul, South Korea
+  <b>Philosopher & Programmer</b>
+  <br>@ Chung-Ang Univ. Seoul, South Korea
+  <br><br>Interested in <b>Python, C#, NLP, Unity3D, Processing</b> and <b>AI Ethics</b>
 <p>
 
 
 
-- 👋 Hi, I’m @ej-rarus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ej-rarus/ej-rarus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
