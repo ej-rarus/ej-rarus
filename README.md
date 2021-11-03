@@ -1,8 +1,11 @@
 <h1>Eunjae Tony Lee</h1>
 
-<h2>Philosopher & Programmer</h2>
+<p>
+  Philosopher & Programmer
+  @Seoul, South Korea
+<p>
 
-@Seoul, South Korea
+
 
 - 👋 Hi, I’m @ej-rarus
 - 👀 I’m interested in ...
