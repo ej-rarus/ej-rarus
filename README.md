@@ -1,6 +1,6 @@
 <h1>Eunjae Tony Lee</h1>
 
-<p>Philosopher & Programmer</P>
+<h2>Philosopher & Programmer</h2>
 
 @Seoul, South Korea
 
