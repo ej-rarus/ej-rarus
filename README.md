@@ -2,7 +2,7 @@
 
 <p>
   Philosopher & Programmer
-  @Seoul, South Korea
+  <br>@Seoul, South Korea
 <p>
 
 
