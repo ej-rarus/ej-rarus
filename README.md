@@ -3,7 +3,7 @@
 <p>
   <b>Philosopher & Programmer</b>
   <br>@ Chung-Ang Univ. Seoul, South Korea
-  <br><br>Interested in <b>React, Python, NLP, Processing5</b> and <b>AI Ethics</b>
+  <br><br><b>React, Python, NLP, Processing5</b> and <b>AI Ethics</b>
 <p>
 
 
