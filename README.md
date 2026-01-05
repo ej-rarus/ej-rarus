@@ -1,9 +1,9 @@
 <h1>Eunjae Tony Lee</h1>
 
 <p>
-  <b>Philosopher & Programmer</b>
-  <br>@ Chung-Ang Univ. Seoul, South Korea
-  <br><br><b>React, Python, NLP, Processing5</b> and <b>AI Ethics</b>
+  <b>Philosopher & Project Manager & Full-Stack Developer</b>
+  <br>@ Lukuku. Seoul, South Korea
+  <br><br><b>Next.js, Python, NLP, Processing5</b> and <b>AI Ethics</b>
 <p>
 
 
