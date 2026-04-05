@@ -23,9 +23,7 @@
                   
   ### Stack I reach for                                                    
                   
-  [![My                                                                    
-  Skills](https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,py,supabase
-  ,prisma,tailwind,vercel,git,docker,aws,arduino)](https://skillicons.dev) 
+  [![MySkills](https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,py,supabase,prisma,tailwind,vercel,git,docker,aws,arduino)](https://skillicons.dev) 
                   
   ### Links                                                               
 
