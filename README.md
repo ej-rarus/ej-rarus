@@ -17,7 +17,7 @@
 ### Now
 
 - **PM / Team Leader** @ [Lukuku](https://lukuku.io) — FILA, MATIN KIM, MFG 글로벌 Shopify POS 프로젝트, 8인 개발팀 리드
-- **M.A. Philosophy** @ Chung-Ang University — AI Humanities 연구
+- **M.A. Coursework Completed, Philosophy** @ Chung-Ang University — AI Humanities Research
 
 ---
 
