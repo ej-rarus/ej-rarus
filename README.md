@@ -42,6 +42,14 @@ Weaving technology, humanities, and art to build tools that genuinely help peopl
 
 ---
 
+### My Git Farm
+
+<a href="https://gitanimals.org"><img src="https://render.gitanimals.org/farms/ej-rarus" width="600" alt="gitanimals farm"/></a>
+
+<a href="https://gitanimals.org"><img src="https://render.gitanimals.org/lines/ej-rarus" width="600" alt="gitanimals line"/></a>
+
+---
+
 <div align="center">
   <sub>Seoul, South Korea · Open to collaboration</sub>
 </div>
